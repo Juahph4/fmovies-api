@@ -1,0 +1,8 @@
+{
+  "name": "Movie Api",
+  "description": "A barebones nginx installation using Docker",
+  "repository": "https://github.com/Juahph4/fmovies-api/",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
+  "keywords": ["nginx", "docker", "proxy"],
+  "stack": "container"
+}
