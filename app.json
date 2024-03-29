@@ -1,8 +1,22 @@
 {
-  "name": "Movie Api",
-  "description": "A barebones nginx installation using Docker",
-  "repository": "https://github.com/Juahph4/fmovies-api/",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
-  "keywords": ["nginx", "docker", "proxy"],
-  "stack": "container"
+    "name": "Ultroid UserBot",
+    "description": "Pluggable telegram userbot, made in python using Telethon.",
+    "logo": "https://graph.org/file/031957757a4f6a5191040.jpg",
+    "keywords": [
+        "Telethon",
+        "telegram",
+        "userbot",
+        "python",
+        "ultroid"
+    ],
+    "repository": "https://github.com/TeamUltroid/Ultroid",
+    "website": "https://ultroid.tech",
+    "success_url": "https://t.me/TeamUltroid",
+    "stack": "container",
+    "formation": {
+        "ultroid": {
+            "quantity": 1,
+            "size": "eco"
+        }
+    }
 }
